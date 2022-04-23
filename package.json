@@ -1,0 +1,24 @@
+{
+  "name": "typescript-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Project.js",
+  "scripts": {
+    "start": "ts-node src/Launcher.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akkassingh/node-typescript-webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akkassingh/node-typescript-webpack/issues"
+  },
+  "homepage": "https://github.com/akkassingh/node-typescript-webpack#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.25",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}

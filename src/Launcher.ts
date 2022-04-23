@@ -6,8 +6,6 @@ class Launcher {
 
     //NOTE: Clean code Practise says: Each class should have only one Role, This means if we want another logic we should put it in another class 
 
-    //instance variables
-    private name: String | undefined;
     private server: Server;
 
     constructor(){
